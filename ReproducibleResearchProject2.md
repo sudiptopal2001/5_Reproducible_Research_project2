@@ -199,8 +199,7 @@ healthChart = healthChart + ggtitle("Top 10 US Killers") + theme(plot.title = el
 
 healthChart
 ```
-
-![](ReproducibleResearchProject2_files/figure-markdown_github/healthChart-1.png)
+https://github.com/sudiptopal2001/5_Reproducible_Research_project2/blob/master/econChart-1.png?raw=true
 
 ### 3.2: Events that have the Greatest Economic Consequences
 
@@ -240,4 +239,4 @@ econChart = econChart + ggtitle("Top 10 US Storm Events causing Economic Consequ
 econChart
 ```
 
-![](ReproducibleResearchProject2_files/figure-markdown_github/econChart-1.png)
+https://github.com/sudiptopal2001/5_Reproducible_Research_project2/blob/master/healthChart-1.png?raw=true
